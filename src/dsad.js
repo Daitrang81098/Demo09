@@ -1,1 +1,6 @@
-function aa(){}
+function aa(){
+    bbbbb
+}
+
+bbbbb
+bbb
